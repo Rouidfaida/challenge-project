@@ -3,24 +3,15 @@ import './NousConnaitre.css'
 function NousConnaitre() {
 return (
 <div>
-<div class="popout">
-  <span>P</span>
-  <span>R</span>
-  <span>E</span>
-  <span>S</span>
-  <span>E</span>
-  <span>N</span>
-  <span>T</span>
-  <span>A</span>
-  <span>T</span>
-  <span>I</span>
-  <span>O</span>
-  <span>N</span>
-</div>
+
 <div className='box'>
 <div className='box1'>
-    <h6 className='title1'>Présentation STB SICAR</h6>
-    <p className='parag1'>La STB SICAR, filiale de la STB BANK, a été créée le 23 mars 1998. C'est une société d’investissement à capital risque qui a pour objectif la participation, pour son propre compte ou pour le compte de bailleurs de fonds au renforcement des opportunités d’investissement et des fonds propres des entreprises. Elle permet de procurer aux entreprises les fonds nécessaires à leur développement et à leur croissance avec obligation de sortie.</p>
+   <div className='hr1'>
+    <hr/>
+    <h6 className='title1'>Nous Connaitre</h6>
+    <hr/>
+    </div>
+    <p className='parag1nous'>La STB SICAR, filiale de la STB BANK, a été créée le 23 mars 1998. C'est une société d’investissement à capital risque qui a pour objectif la participation, pour son propre compte ou pour le compte de bailleurs de fonds au renforcement des opportunités d’investissement et des fonds propres des entreprises. Elle permet de procurer aux entreprises les fonds nécessaires à leur développement et à leur croissance avec obligation de sortie.</p>
     </div>
     <div className='box2'>
     <h6 className='title2'>Nos chiffres clés</h6>

@@ -1,4 +1,5 @@
 import React from 'react'
+import {Table} from 'react-bootstrap'
 
 function ResponsabiliteSociale() {
 return (
@@ -24,19 +25,13 @@ return (
     <div>
       <h4>Contribution ODD</h4>
       <p>La STB SICAR contribue aux objectifs de développement durable proportionnellement aux moyens dont elle dispose. Au regard de ses activités, elle contribue principalement aux 7 ODD suivants :</p>
-      <section>
-      </section>
-      <section>
-      </section>
-      <section>
-      </section>
-      <section>
-      </section>
-      <section>
-      </section>
-      <section>
-      </section>
-      <img />
+      <div><img src="/table1.png" alt=""/></div>
+      <div><img src="/table2.png" alt=""/></div>
+      <div><img src="/table3.png" alt=""/></div>
+      <div><img src="/table4.png" alt=""/></div>
+      <div><img src="/table5.png" alt=""/></div>
+      <div><img src="/table6.png" alt=""/></div>
+      <div><img src="/map.png" alt=""/></div>
     </div>
   </div>
   )

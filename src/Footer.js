@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
 return (
-    <div className="Container">
+    <div className="Container" style={{position:"fixed"}}>
 		<div className="copyRight">
 			<img src="/facebook.png" alt="facebook"/>
 			<img src="/instagram.png" alt="instagram"/>
