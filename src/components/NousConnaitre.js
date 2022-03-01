@@ -7,26 +7,86 @@ return (
 <div className='box'>
 <div className='box1'>
    <div className='hr1'>
-    <hr/>
+    <hr className='line1'/>
     <h6 className='title1'>Nous Connaitre</h6>
-    <hr/>
+    <hr className='line2'/>
     </div>
-    <p className='parag1nous'>La STB SICAR, filiale de la STB BANK, a été créée le 23 mars 1998. C'est une société d’investissement à capital risque qui a pour objectif la participation, pour son propre compte ou pour le compte de bailleurs de fonds au renforcement des opportunités d’investissement et des fonds propres des entreprises. Elle permet de procurer aux entreprises les fonds nécessaires à leur développement et à leur croissance avec obligation de sortie.</p>
+    <p className='parag1nous'> Présentation STB SICAR <br/>La STB SICAR, filiale de la STB BANK, a été créée le 23 mars 1998. C'est une société d’investissement à capital risque qui a pour objectif la participation, pour son propre compte ou pour le compte de bailleurs de fonds au renforcement des opportunités d’investissement et des fonds propres des entreprises. Elle permet de procurer aux entreprises les fonds nécessaires à leur développement et à leur croissance avec obligation de sortie.</p>
     </div>
     <div className='box2'>
-    <h6 className='title2'>Nos chiffres clés</h6>
-    <img src="/chiffres.png" alt="" width="350px"/>
+    <div className='hr1'>
+    <hr className='line1'/>
+    <h6 className='title1'>Nos chiffres clés</h6>
+    <hr className='line2'/>
+    </div>
+    <div className='nosChiffre'>
+ 
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>23 </h6>
+  </div>
+      <h5>ans expérience</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>128 </h6>
+  </div>
+      <h5>MDT sous gestion</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>300 </h6>
+  </div>
+      <h5>investissements <br/>en portfeuille</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>58 </h6>
+  </div>
+      <h5>fonds gérés</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>91 </h6>
+  </div>
+      <h5>sorties intégrales <br/> réalisés</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>24 </h6>
+  </div>
+      <h5>régions</h5>
+   </div>
+   <div class="hexagon-wrapper">
+  <div class="hexagon">
+      <h6>1750 </h6>
+  </div>
+      <h5>Emlpois crées durant <br/> les 5 dernières années</h5>
+   </div>
+
+  
+
+
+
+
+
 </div>
-<div className='box3'>
-    <h6 className='title3' >Principes d’investissement</h6>
-    <img src="/investissement.png" alt="" width="500px"/>
+</div>
+<div className='box2'>
+<div className='hr1'>
+    <hr className='line1'/>
+    <h6 className='title1'>Principes d’investissement</h6>
+    <hr className='line2'/>
+    </div>
+   
     </div>
     </div>
+    <div>
     <h6>Modes d’intervention</h6>
     <p>Les actions ordinaires (A.O) en sortie libre</p>
     <p>Les obligations convertibles en actions (O.C.A)</p>
     <p>Les avances sous forme de compte courant associé (C.C.A)</p>
-
+    </div>
     <h1>UN ÉTAT D'ESPRIT</h1>
 
     <h4>Nous plaçons la confiance comme valeur fondamentale d’un partenariat gagnant</h4>
